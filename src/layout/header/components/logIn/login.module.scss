@@ -1,0 +1,38 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    border-radius: 14px;
+    background: #3f51b5;
+    padding: 7px 24px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    border-radius: 14px;
+    background: rgb(238, 244, 255);
+    padding: 16px 17px;
+    gap: 5px;
+}
+
+.sel {
+    color: #3f51b5;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    background-color: transparent;
+    line-height: 30px;
+}
+
+.text {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 34px;
+}
